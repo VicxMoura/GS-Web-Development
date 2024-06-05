@@ -11,6 +11,7 @@ EcoMar é um projeto web dedicado a promover a gestão sustentável dos oceanos,
   - `script.js`: Arquivo de scripts principal.
 - `Imagens/`: Diretório contendo imagens usadas no projeto.
 - `README.md`: Este arquivo README.
+- `GitPages.txt`: Este arquivo contem o link do site em GitPages.
 
 ## Instalação
 ### Requisitos
